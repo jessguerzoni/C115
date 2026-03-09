@@ -10,7 +10,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((HOST, PORT))
 s.listen(1)
 
-print("Esperando conexão...")
+print("Conectando")
 
 conn, addr = s.accept()
 
