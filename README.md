@@ -2,6 +2,7 @@
 Mini-Kahoot
 
 Nome: Jéssica Guerzoni
+
 Tecnolgias utilizadas: Python e Socket TCP
 Rodado com VS Code
 Executado com: Git Bash
